@@ -6,7 +6,7 @@
 게임 엔진과 로컬 AI 도구, 인터랙티브 웹 서비스를 개발하는 **김인권**입니다.
 작동하는 프로토타입에서 출발해 제작 파이프라인과 운영 도구까지 만듭니다.
 
-[프로젝트 포털](https://inkwonworks.ingunbi.workers.dev/) · [작품 아카이브](https://kiminkwon.com/) · [IceCubeLab](https://www.icecubelab.com/)
+[개발 포트폴리오](https://kiminkwon.com/dev/) · [개발 로그](https://kiminkwon.com/dev_log/) · [작품 아카이브](https://kiminkwon.com/) · [IceCubeLab](https://www.icecubelab.com/)
 
 ## Selected work
 
@@ -34,5 +34,5 @@ Cloudflare Workers · Blender · Unity · Unreal Engine
 - 로컬 AI와 이미지·3D 에셋 제작 도구 연결
 - 웹 서비스의 화면, 데이터와 배포·운영 구성
 
-개발하며 만든 결과물은 [INKWON WORKS](https://inkwonworks.ingunbi.workers.dev/)에 모으고 있습니다.  
+개발 프로젝트는 [개발 포트폴리오](https://kiminkwon.com/dev/), 작업 과정은 [개발 로그](https://kiminkwon.com/dev_log/)에서 소개합니다.  
 게임·XR·AI 교육과 프로젝트 지도 작업은 [IceCubeLab](https://www.icecubelab.com/)에서 소개합니다.
