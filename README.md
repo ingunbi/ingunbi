@@ -7,6 +7,7 @@
 
 - **[Boyeo](https://github.com/ingunbi/boyeo-source)** — 화면 위에서 바로 읽는 macOS 온디바이스 번역 렌즈. `Swift` `Vision` `MIT`
 - **[Snowflake](https://github.com/ingunbi/snowflake-source)** — 로컬 AI 채팅, PDF OCR/RAG, 작업공간 파일 도구와 이미지 스튜디오. `Python` `JavaScript` `MIT`
+- **[Prop Foundry](https://github.com/ingunbi/prop-foundry-source)** — Blender 작업을 여러 기기에 분배하고, 에셋을 검수·버전 관리하는 제작 도구. `Python` `Blender` `MIT`
 - **[Circuit Bloom](https://github.com/ingunbi/circuit-bloom)** — 회로를 돌려 꽃을 피우는 퍼즐. 시드 기반 생성, 일일 도전, 되돌리기. `JavaScript` `MIT`
 - **[Petal Blocks](https://github.com/ingunbi/petal-blocks)** — 8×8 보드에 조각을 놓는 블록 퍼즐. 게임 규칙과 화면·입력을 분리했습니다. `Canvas` `MIT`
 - **[Orbit Switch](https://github.com/ingunbi/orbit-switch)** — 두 궤도를 오가며 피하고 모으는 원버튼 아케이드. `Canvas` `WebAudio` `MIT`
