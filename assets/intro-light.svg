@@ -7,8 +7,8 @@
 <text x="39" y="123" fill="#242923" font-size="66" font-weight="700" letter-spacing="-3">INKWON KIM</text>
 <text x="43" y="165" fill="#242923" font-size="21" letter-spacing=".3">Game Designer</text>
 <path d="M42 194H1058" stroke="#cdd1c5"/>
-<text x="42" y="224" fill="#687065" font-size="13">Game design / Interactive experiences / IceCubeLab</text>
-<text x="1058" y="224" text-anchor="end" fill="#3358c8" font-size="13" letter-spacing="1.4">SYSTEMS / PLAY / PROTOTYPES</text>
+<text x="42" y="224" fill="#687065" font-size="13">C9 / Tree of Savior / IceCubeLab</text>
+<text x="1058" y="224" text-anchor="end" fill="#3358c8" font-size="13" letter-spacing="1.4">GAME DEVELOPMENT SINCE 2006</text>
 </g>
 <path d="M969 62h69v69h-69z" fill="none" stroke="#cdd1c5"/>
 <path d="M946 86h69v69h-69z" fill="#3358c8" fill-opacity=".12" stroke="#3358c8"/>
