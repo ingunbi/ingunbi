@@ -27,6 +27,6 @@
 
 게임 규칙과 플레이 감각, 읽을 수 있는 코드, 직접 실행해 볼 수 있는 도구를 좋아합니다.
 주로 **Swift · Python · JavaScript / TypeScript**를 쓰고, Unity와 Unreal Engine을 가르칩니다.
-이전에는 **[C9](https://store.steampowered.com/app/212390/)**과 **[트리 오브 세이비어](https://store.steampowered.com/app/372000/)** 개발에 참여했습니다.
+이전에는 **[C9](https://steamcommunity.com/app/212390/)**과 **[트리 오브 세이비어](https://store.steampowered.com/app/372000/)** 개발에 참여했습니다.
 
 [만든 것과 개발 경력](https://kiminkwon.com/dev/) · [개발 로그](https://kiminkwon.com/dev_log/) · [아트 작업](https://kiminkwon.com/) · [IceCubeLab](https://www.icecubelab.com/)
