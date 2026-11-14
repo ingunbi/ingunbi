@@ -1,7 +1,8 @@
 # Hi, I’m Inkwon.
 
 게임디자이너 김인권입니다. 게임과 엔진을 만들고, 작업하다 필요한 도구를 오픈소스로 공개합니다.
-요즘은 영걸전·대항해시대·파랜드 택틱스의 게임 엔진을 개발하고, 로컬 AI와 Blender 제작 도구도 만들고 있습니다.
+현재 [36리터스 주식회사](https://www.36litters.com/ko/games.html) 이사로 재직하고 있습니다.
+개인 작업으로는 영걸전·대항해시대·파랜드 택틱스의 오픈소스 엔진과 로컬 AI·Blender 제작 도구를 개발합니다.
 
 ### Game engines
 
@@ -12,6 +13,15 @@
 직접 구현한 엔진 코드와 도구를 공개합니다. 원작 게임 데이터·그래픽·음악은 포함하지 않으며, 원작 권리자와는 관계없는 비공식 프로젝트입니다.
 [영걸전 연구 문서](https://github.com/ingunbi/yeonggeoljeon-engine/tree/main/research) · [Portolan 기여 안내](https://github.com/ingunbi/portolan-source/blob/main/CONTRIBUTING.md)
 
+### At 36Litters
+
+회사의 출시작과 개발·준비 중인 게임입니다.
+
+- **[풋볼로그 · Football Rogue](https://www.36litters.com/ko/games.html#footballrogue)** — 드리블·패스·슛의 선택으로 시즌을 진행하는 모바일 축구 로그라이크 RPG. **개발 중**.
+- **[Corrupted: Dawn of Havoc](https://store.steampowered.com/app/2007770/)** — 스쿼드 배치와 실시간 카드 사용을 결합한 오토배틀 로그라이크 덱빌딩. **PC 얼리 액세스 출시**.
+- **[WIGGLE](https://www.36litters.com/ko/games.html#wiggle)** — 2D 캐주얼 멀티플레이 플랫포머. **준비 중**.
+- **[WADL](https://www.36litters.com/ko/games.html#wadl)** — PC·콘솔용 3D 오픈월드 생존 크래프팅. **준비 중**.
+
 ### Tools
 
 - **[Boyeo](https://github.com/ingunbi/boyeo-source)** — 화면 위에서 바로 읽는 macOS 온디바이스 번역 렌즈. `Swift` `Vision` `MIT`
@@ -20,7 +30,12 @@
 
 ### Small games
 
-**[Circuit Bloom](https://github.com/ingunbi/circuit-bloom)** · **[Petal Blocks](https://github.com/ingunbi/petal-blocks)** · **[Orbit Switch](https://github.com/ingunbi/orbit-switch)** — 직접 실행해 볼 수 있는 작은 브라우저 게임들입니다.
+최근 개인 작업으로 만든 브라우저 게임들입니다. 세 게임 모두 MIT 소스를 공개합니다.
+
+- **[Circuit Bloom](https://github.com/ingunbi/circuit-bloom)** — 회로를 돌려 꽃을 피우는 퍼즐. 시드 기반 생성과 일일 도전.
+- **[Petal Blocks](https://github.com/ingunbi/petal-blocks)** — 8×8 보드에 조각을 놓고 줄을 채우는 블록 퍼즐.
+- **[Orbit Switch](https://github.com/ingunbi/orbit-switch)** — 두 궤도를 오가며 피하고 모으는 원버튼 아케이드.
+
 [Unity 클리커 학습 예제](https://github.com/ingunbi/Unity_ClickerGame_Tutorial)도 공개하고 있습니다.
 
 ### Around here
