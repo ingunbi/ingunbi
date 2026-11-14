@@ -14,11 +14,11 @@
 
 ### Games at work
 
-- **웹젠 · 구 NHN게임스** — [C9](https://steamcommunity.com/app/212390/) 개발 참여.
-- **IMC게임즈** — [트리 오브 세이비어](https://store.steampowered.com/app/372000/) 개발 참여.
-- **36리터스** — 현재 이사로 재직 중. 회사 게임은 [Corrupted](https://store.steampowered.com/app/2007770/) (얼리 액세스), [풋볼로그](https://www.36litters.com/ko/games.html#footballrogue) (개발 중), [WIGGLE](https://www.36litters.com/ko/games.html#wiggle) · [WADL](https://www.36litters.com/ko/games.html#wadl) (준비 중).
+- **[웹젠](https://company.webzen.com/ko) · 구 NHN게임스** — [C9](https://steamcommunity.com/app/212390/) 개발 참여.
+- **[IMC게임즈](https://www.imc.co.kr/)** — [트리 오브 세이비어](https://store.steampowered.com/app/372000/) 개발 참여.
+- **[36리터스](https://www.36litters.com/ko/)** — 현재 이사로 재직 중. 회사 게임은 [Corrupted](https://store.steampowered.com/app/2007770/) (얼리 액세스), [풋볼로그](https://www.36litters.com/ko/games.html#footballrogue) (개발 중).
 
-그렙게임즈에서는 일본 IP 기반 게임 개발과 사내연구소 업무를 맡고 있습니다.
+[그렙게임즈](https://www.gamejob.co.kr/Company/Detail?M=29208655)에서는 일본 IP 기반 게임 개발과 사내연구소 업무를 맡고 있습니다.
 
 ### Tools
 
