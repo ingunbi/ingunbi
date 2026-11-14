@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1100" height="248" viewBox="0 0 1100 248" role="img" aria-labelledby="title desc">
 <title id="title">Inkwon Kim</title>
-<desc id="desc">Game Designer</desc>
+<desc id="desc">Game Designer &amp; Open-source Developer</desc>
 <rect width="1100" height="248" rx="8" fill="#f5f3ec"/>
 <g font-family="Arial,Helvetica,sans-serif">
-<text x="42" y="42" fill="#687065" font-size="13" letter-spacing="3">INGUNBI / GAME DESIGNER</text>
+<text x="42" y="42" fill="#687065" font-size="13" letter-spacing="3">INGUNBI / OPEN SOURCE</text>
 <text x="39" y="123" fill="#242923" font-size="66" font-weight="700" letter-spacing="-3">INKWON KIM</text>
-<text x="43" y="165" fill="#242923" font-size="21" letter-spacing=".3">Game Designer</text>
+<text x="43" y="165" fill="#242923" font-size="21" letter-spacing=".3">Game Designer &amp; Open-source Developer</text>
 <path d="M42 194H1058" stroke="#cdd1c5"/>
-<text x="42" y="224" fill="#687065" font-size="13">C9 / Tree of Savior / IceCubeLab</text>
-<text x="1058" y="224" text-anchor="end" fill="#3358c8" font-size="13" letter-spacing="1.4">GAME DEVELOPMENT SINCE 2006</text>
+<text x="42" y="224" fill="#687065" font-size="13">Game engines / Research / Shared code</text>
+<text x="1058" y="224" text-anchor="end" fill="#3358c8" font-size="13" letter-spacing="1.4">CODE / TESTS / DOCUMENTATION</text>
 </g>
 <path d="M969 62h69v69h-69z" fill="none" stroke="#cdd1c5"/>
 <path d="M946 86h69v69h-69z" fill="#3358c8" fill-opacity=".12" stroke="#3358c8"/>
