@@ -34,5 +34,6 @@ Cloudflare Workers · Blender · Unity · Unreal Engine
 - 로컬 AI와 이미지·3D 에셋 제작 도구 연결
 - 웹 서비스의 화면, 데이터와 배포·운영 구성
 
-개발 프로젝트는 [개발 포트폴리오](https://kiminkwon.com/dev/), 작업 과정은 [개발 로그](https://kiminkwon.com/dev_log/)에서 소개합니다.  
+개발 프로젝트는 [개발 포트폴리오](https://kiminkwon.com/dev/), 작업 과정은 [개발 로그](https://kiminkwon.com/dev_log/)에서 소개합니다.
+
 게임·XR·AI 교육과 프로젝트 지도 작업은 [IceCubeLab](https://www.icecubelab.com/)에서 소개합니다.
