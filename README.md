@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/intro-dark.svg">
-  <img alt="Inkwon Kim — Game Designer" src="assets/intro-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/game-designer-dark.svg">
+  <img alt="Inkwon Kim — Game Designer" src="assets/game-designer-light.svg" width="100%">
 </picture>
 
 **게임디자이너 김인권**입니다.
