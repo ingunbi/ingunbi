@@ -5,6 +5,9 @@
 
 ### Code
 
+- **[Circuit Bloom](https://github.com/ingunbi/circuit-bloom)** — 회로를 돌려 꽃을 피우는 퍼즐. 시드 기반 생성, 일일 도전, 되돌리기. `JavaScript` `MIT`
+- **[Petal Blocks](https://github.com/ingunbi/petal-blocks)** — 8×8 보드에 조각을 놓는 블록 퍼즐. 게임 규칙과 화면·입력을 분리했습니다. `Canvas` `MIT`
+- **[Orbit Switch](https://github.com/ingunbi/orbit-switch)** — 두 궤도를 오가며 피하고 모으는 원버튼 아케이드. `Canvas` `WebAudio` `MIT`
 - **[영걸전 자체 엔진](https://github.com/ingunbi/yeonggeoljeon-engine)** — Swift로 만드는 SRPG 연구 엔진. 자료 해독부터 전투 규칙·AI·캠페인 실행기까지 다룹니다. `Swift` `AppKit` `Python`
 - **[Unity Clicker](https://github.com/ingunbi/Unity_ClickerGame_Tutorial)** — 클릭, 강화, 자동 수익과 저장을 연결하는 작은 게임 학습 예제. `Unity` `C#`
 
