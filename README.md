@@ -16,11 +16,7 @@
 | 프로젝트 | 만드는 것 | 살펴보기 |
 | --- | --- | --- |
 | **영걸전 자체 엔진** | Swift/AppKit으로 자료 해석, 전투 규칙과 캠페인 실행기를 구현하는 SRPG 연구 엔진 | [공개 소스](https://github.com/ingunbi/yeonggeoljeon-engine) |
-| **Prop Foundry** | Blender 에셋의 제작·검수·라이브러리 관리를 연결하는 제작 파이프라인 | [에셋 컬렉션](https://ingun-3d-workshop.chris-ingunbi.chatgpt.site/) |
-| **Parallax** | 작품을 스와이프하며 탐색하고 관객의 반응을 모으는 인터랙티브 웹 | [작품 보기](https://parallax.kiminkwon.com/audience/) |
-| **QuestCube** | 교육 과정을 운영하는 학습 웹 서비스 | [서비스](https://questcube.icecubelab.com/) |
 | **포포리게임** | 직접 만든 미니게임을 모은 브라우저 아케이드 | [플레이](https://popori.ingunbi.workers.dev/) |
-| **Shanghai ’26** | 날짜별 사진과 이야기를 엮은 여행 기록 웹사이트 | [공개 소스](https://github.com/ingunbi/shanghai-travel-2026) · [여행 기록](https://ingunbi.github.io/shanghai-travel-2026/) |
 
 ## Teaching archives
 
