@@ -1,9 +1,7 @@
 # Hi, I’m Inkwon.
 
 게임디자이너 김인권입니다. 게임과 엔진을 만들고, 작업하다 필요한 도구를 오픈소스로 공개합니다.
-현재 [36리터스 주식회사](https://www.36litters.com/ko/games.html) 이사로 재직하고 있습니다.
-그렙게임즈에서는 일본 IP 기반 게임 개발과 사내연구소 업무를 맡고 있습니다.
-개인 작업으로는 영걸전·대항해시대·파랜드 택틱스의 오픈소스 엔진과 로컬 AI·Blender 제작 도구를 개발합니다.
+영걸전·대항해시대·파랜드 택틱스의 오픈소스 엔진, 로컬 AI·Blender 제작 도구를 개발합니다.
 
 ### Game engines
 
@@ -14,14 +12,13 @@
 직접 구현한 엔진 코드와 도구를 공개합니다. 원작 게임 데이터·그래픽·음악은 포함하지 않으며, 원작 권리자와는 관계없는 비공식 프로젝트입니다.
 [영걸전 연구 문서](https://github.com/ingunbi/yeonggeoljeon-engine/tree/main/research) · [Portolan 기여 안내](https://github.com/ingunbi/portolan-source/blob/main/CONTRIBUTING.md)
 
-### At 36Litters
+### Games at work
 
-회사의 출시작과 개발·준비 중인 게임입니다.
+- **웹젠 · 구 NHN게임스** — [C9](https://steamcommunity.com/app/212390/) 개발 참여.
+- **IMC게임즈** — [트리 오브 세이비어](https://store.steampowered.com/app/372000/) 개발 참여.
+- **36리터스** — 현재 이사로 재직 중. 회사 게임은 [Corrupted](https://store.steampowered.com/app/2007770/) (얼리 액세스), [풋볼로그](https://www.36litters.com/ko/games.html#footballrogue) (개발 중), [WIGGLE](https://www.36litters.com/ko/games.html#wiggle) · [WADL](https://www.36litters.com/ko/games.html#wadl) (준비 중).
 
-- **[풋볼로그 · Football Rogue](https://www.36litters.com/ko/games.html#footballrogue)** — 드리블·패스·슛의 선택으로 시즌을 진행하는 모바일 축구 로그라이크 RPG. **개발 중**.
-- **[Corrupted: Dawn of Havoc](https://store.steampowered.com/app/2007770/)** — 스쿼드 배치와 실시간 카드 사용을 결합한 오토배틀 로그라이크 덱빌딩. **PC 얼리 액세스 출시**.
-- **[WIGGLE](https://www.36litters.com/ko/games.html#wiggle)** — 2D 캐주얼 멀티플레이 플랫포머. **준비 중**.
-- **[WADL](https://www.36litters.com/ko/games.html#wadl)** — PC·콘솔용 3D 오픈월드 생존 크래프팅. **준비 중**.
+그렙게임즈에서는 일본 IP 기반 게임 개발과 사내연구소 업무를 맡고 있습니다.
 
 ### Tools
 
@@ -43,6 +40,5 @@
 
 게임 규칙과 플레이 감각, 읽을 수 있는 코드, 직접 실행해 볼 수 있는 도구를 좋아합니다.
 주로 **Swift · Python · JavaScript / TypeScript**를 쓰고, Unity와 Unreal Engine을 가르칩니다.
-이전에는 [C9](https://steamcommunity.com/app/212390/)과 [트리 오브 세이비어](https://store.steampowered.com/app/372000/) 개발에 참여했습니다.
 
 [만든 것과 개발 경력](https://kiminkwon.com/dev/) · [개발 로그](https://kiminkwon.com/dev_log/) · [아트 작업](https://kiminkwon.com/) · [IceCubeLab](https://www.icecubelab.com/)
