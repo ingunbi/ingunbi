@@ -1,10 +1,13 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/intro-dark.svg">
-  <img alt="Inkwon Kim — Game engines, AI tools, web services" src="assets/intro-light.svg" width="100%">
+  <img alt="Inkwon Kim — Game Designer" src="assets/intro-light.svg" width="100%">
 </picture>
 
-게임 엔진과 로컬 AI 도구, 인터랙티브 웹 서비스를 개발하는 **김인권**입니다.
-작동하는 프로토타입에서 출발해 제작 파이프라인과 운영 도구까지 만듭니다.
+**게임디자이너 김인권**입니다.
+
+게임의 규칙과 시스템, 플레이어가 선택하고 반응하는 경험을 설계합니다.
+기획을 플레이 가능한 프로토타입으로 옮기고, 엔진과 제작 도구를 직접 개발하며 다듬습니다.
+게임·XR 교육과 인터랙티브 작업으로도 이 관심을 이어가고 있습니다.
 
 [개발 포트폴리오](https://kiminkwon.com/dev/) · [개발 로그](https://kiminkwon.com/dev_log/) · [작품 아카이브](https://kiminkwon.com/) · [IceCubeLab](https://www.icecubelab.com/)
 
@@ -30,9 +33,9 @@
 **Swift · Python · TypeScript / JavaScript**  
 Cloudflare Workers · Blender · Unity · Unreal Engine
 
-- 게임의 규칙과 상태를 다루는 엔진·런타임 구현
-- 로컬 AI와 이미지·3D 에셋 제작 도구 연결
-- 웹 서비스의 화면, 데이터와 배포·운영 구성
+- 게임 시스템과 플레이 흐름 설계, 프로토타입 제작
+- 게임 규칙을 실행하는 엔진과 콘텐츠 제작 도구 개발
+- 게임·XR 교육, 인터랙티브 경험 제작
 
 개발 프로젝트는 [개발 포트폴리오](https://kiminkwon.com/dev/), 작업 과정은 [개발 로그](https://kiminkwon.com/dev_log/)에서 소개합니다.
 
