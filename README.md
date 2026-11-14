@@ -7,7 +7,7 @@
 
 - **[영걸전 자체 엔진](https://github.com/ingunbi/yeonggeoljeon-engine)** — 자료 해독부터 전투 규칙·AI·캠페인 실행기까지 만드는 SRPG 연구 엔진. `Swift` `AppKit` `Python`
 - **[Portolan · 대항해시대 II 엔진](https://github.com/ingunbi/portolan-source)** — 항해·교역·함대·전투 규칙을 구현하는 비공식 오픈소스 엔진. Mac·iPad·Android 태블릿 클라이언트를 함께 개발합니다. `Swift` `Kotlin` `MIT`
-- **파랜드 택틱스 엔진** — 오픈소스 개발 중.
+- **[Farland Saga Engine · 파랜드 택틱스](https://github.com/ingunbi/farland-saga-engine)** — 파랜드 택틱스 1의 전투 규칙을 분석하며 만드는 Godot 기반 macOS 엔진. 이동·공격·마법·AI와 이벤트 처리를 개발합니다. `GDScript` `Godot` `MIT`
 
 직접 구현한 엔진 코드와 도구를 공개합니다. 원작 게임 데이터·그래픽·음악은 포함하지 않으며, 원작 권리자와는 관계없는 비공식 프로젝트입니다.
 [영걸전 연구 문서](https://github.com/ingunbi/yeonggeoljeon-engine/tree/main/research) · [Portolan 기여 안내](https://github.com/ingunbi/portolan-source/blob/main/CONTRIBUTING.md)
